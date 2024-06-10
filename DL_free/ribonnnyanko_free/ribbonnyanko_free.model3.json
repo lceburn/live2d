@@ -1,0 +1,27 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "ribbonnyanko_free.moc3",
+		"Textures": [
+			"ribbonnyanko_free.4096/texture_00.png",
+			"ribbonnyanko_free.4096/texture_01.png"
+		],
+		"Physics": "ribbonnyanko_free.physics3.json",
+		"DisplayInfo": "ribbonnyanko_free.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

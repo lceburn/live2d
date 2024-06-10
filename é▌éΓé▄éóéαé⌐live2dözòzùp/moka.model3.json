@@ -1,0 +1,119 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "moka.moc3",
+		"Textures": [
+			"moka.2048/texture_00.png"
+		],
+		"Physics": "moka.physics3.json",
+		"DisplayInfo": "moka.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "angry",
+				"File": "expressions/angry.exp3.json"
+			},
+			{
+				"Name": "arm",
+				"File": "expressions/arm.exp3.json"
+			},
+			{
+				"Name": "arm2",
+				"File": "expressions/arm2.exp3.json"
+			},
+			{
+				"Name": "donbiki",
+				"File": "expressions/donbiki.exp3.json"
+			},
+			{
+				"Name": "donbikikuti",
+				"File": "expressions/donbikikuti.exp3.json"
+			},
+			{
+				"Name": "doya",
+				"File": "expressions/doya.exp3.json"
+			},
+			{
+				"Name": "egao",
+				"File": "expressions/egao.exp3.json"
+			},
+			{
+				"Name": "gaan",
+				"File": "expressions/gaan.exp3.json"
+			},
+			{
+				"Name": "gakkari",
+				"File": "expressions/gakkari.exp3.json"
+			},
+			{
+				"Name": "guruguru",
+				"File": "expressions/guruguru.exp3.json"
+			},
+			{
+				"Name": "hawawa",
+				"File": "expressions/hawawa.exp3.json"
+			},
+			{
+				"Name": "naku",
+				"File": "expressions/naku.exp3.json"
+			},
+			{
+				"Name": "sad",
+				"File": "expressions/sad.exp3.json"
+			},
+			{
+				"Name": "tere",
+				"File": "expressions/tere.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/donbiki.motion3.json"
+				},
+				{
+					"File": "motions/doya.motion3.json"
+				},
+				{
+					"File": "motions/egao.motion3.json"
+				},
+				{
+					"File": "motions/gakkari.motion3.json"
+				},
+				{
+					"File": "motions/hawawa.motion3.json"
+				},
+				{
+					"File": "motions/hidariwomiru.motion3.json"
+				},
+				{
+					"File": "motions/migiwomiru.motion3.json"
+				},
+				{
+					"File": "motions/sad.motion3.json"
+				},
+				{
+					"File": "motions/tereru.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthForm",
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

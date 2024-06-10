@@ -1,0 +1,61 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+【VTube Studioへモデルの導入方法/How to install a model into VTube Studio】
+
+
+※　必ずこの方法でモデルをインポートして下さい　※
+※　Be sure to import models this way!　※
+
+
+①VTube Studioを立ち上げます。
+　Launch VTube Studio
+
+
+②左上の赤いアイコンから「自分のモデルをインポート」を選択。
+　Select “Import my model” from the red icon in the upper left corner.
+　
+
+③「あなたのlive2dモデルをこのフォルダーに保存してください」と表示されるので「フォルダを開く」を選択。
+　Select “Open folder” when prompted to “Save your live2d model in this folder”.
+
+
+④上記のフォルダ内へ“ribbonnyanko_free”フォルダをコピー＆ペーストして下さい。
+　Copy the “ribbonnyanko_free” folder and paste it into the above folder.
+
+
+⑤VTube Studioを再起動させます。
+　Restart VTube Studio.
+
+
+⑥左上の赤いアイコンをクリックするとモデルの一覧にモデルが追加されているはずなので選択して下さい。
+　Click on the red icon in the upper left corner to see the model added to the list. Please select one.
+
+
+
+初期の状態の場合、自分の動きとモデルの動きが合わない場合があります。
+（半目になったり、常に笑顔だったり、口が開かなかったりetc）
+その際には各種パラメーターをご自身の動きに合うように調整して下さい。
+
+In the initial state, your movements and the model's movements may not match.
+(Half-open eyes, constant smiling, mouth not opening, etc.)
+In this case, please adjust the various parameters to match your own movements.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△
+
+【Live2D＆イラストレーター】
+橡こりす　kunugi korisu
+
+Webサイト
+https://kunugiko1214.wixsite.com/my-site
+Live2Dポートフォリオ
+https://www.youtube.com/channel/UCjfTFUtwxxumQl_rfQnaSSA
+
+X（旧Twitter）：　@korisu_1214
+
+▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△
+
+

@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "haihukonchan.moc3",
+		"Textures": [
+			"haihukonchan.8192/texture_00.png"
+		],
+		"Physics": "haihukonchan.physics3.json",
+		"DisplayInfo": "haihukonchan.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

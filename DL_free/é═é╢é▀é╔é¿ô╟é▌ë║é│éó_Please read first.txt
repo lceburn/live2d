@@ -1,0 +1,173 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+ダウンロードしていただき、ありがとうございます。
+Thank you for downloading.
+
+
+大きなリボンをつけたにゃんこのモデルです。
+This model is a kitten with a big ribbon.
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+【汎用】リボンにゃんこ【手も動くよ】
+https://kunugiko.booth.pm/items/5715712
+
+※このモデルは上記の有料版の機能の一部を制限したものです。
+※キーバインドによる『表情変化』『カラーチェンジ』はありません。
+※上記の内容をご希望の場合は有料版をご購入下さい。
+※よろしくお願い致します。
+
+*This model is a partially restricted version of the paid version described above.
+*There is no “expression change” or “color change” by key bindings.
+* If you want the above content, please purchase the paid version.
+  Thank you very much.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+【基本情報/basic information】
+
+
+動作確認　…　VTube Studio（iPhone/webカメラ）
+
+VTube Studio推奨、他アプリでの動作は保証致しかねます。
+
+画像サイズ　…　3000*4000
+
+簡単なハンドトラッキングに対応。
+（設定によりONOFF可能です）
+
+
+
+Checked by ... VTube Studio (iPhone/webcam)
+
+Recommended for VTube Studio, not guaranteed to work with other apps.
+
+Image size ... 3000*4000
+
+Supports simple hand tracking.
+(Can be turned on/off by setting)
+
+
+
+【データの内容/Data content】
+
+
+・“リボンにゃんこ無料版”モデルデータ一式
+・VTSへの導入方法や使用方法
+
+
+“Ribbon kitten_Free version” model data set
+How to install and use VTS
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+【使用許可/license】
+
+
+◯
+SNS、動画、Vtuber活動etc、ご自由にご利用ください。
+（強制ではありませんが、その際に制作者名を表記していただけると嬉しいです。）
+（デザイン・モデリング：橡こりす　@korisu_1214）
+
+◯
+モデルを使用した活動での収益は全てご購入者様の物です。当方は関与いたしません。
+
+
+Please feel free to use it on SNS, videos, Vtuber activities, etc. 
+It is not mandatory, but we would appreciate it if you could indicate the name of the creator when you do so.
+(Design and Live2D: 橡こりす　@korisu_1214)
+All proceeds from activities using the models belong to the purchaser. We will not be involved.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+【注意事項/Be careful】
+
+
+・限定一点ものではありませんので不特定多数の方が使用する可能性があります。
+
+・モデルは作品サンプルやポートフォリオとしても使用致します。
+
+・今後、モデルを元にしたデザインの別タイプのモデルを制作する可能性があります。
+
+・モデルを使用して起きたトラブルに関しては一切責任を負いません。
+
+It is not a one-of-a-kind item. It may be used by an unspecified number of people.
+The models will be used as samples of my work and as part of my portfolio.
+There is a possibility that another type of model with a design based on the model will be produced in the future.　
+We are not responsible for any problems that may occur using the model.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+【禁止事項/Prohibited matter】
+
+
+・著作権は譲渡致しません。
+　
+・転載や再配布、ならびに自作発言はご遠慮下さい。
+
+・他者への攻撃、反社会的、宗教、政治的発言を目的とした内容への使用は禁止致します。
+
+・モデルそのもののスクリーンショットや画像を使用したグッズ販売はご遠慮下さい。
+　　
+・AIVTuberとしての使用は禁止致します。
+
+
+Copyrights will not be transferred.
+Please refrain from reprinting, redistributing, or making your own remarks.
+Use of the contents for the purpose of offensive, anti-social, religious, or political statements is prohibited.
+Please refrain from selling goods using screenshots or images of the models themselves.
+Use as an AIVTuber is prohibited.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+【サポート対応言語】
+
+
+日本語
+
+ I do not speak English. I am writing this text using a translator.
+ Please contact me if you have any unclear points.
+
+
+※
+使用報告は特に必要ありませんが、何か気になる事があればTwitterのDMやメッセージからお気軽にお声掛け下さい。
+
+※
+モデルの形状破綻を発見した場合は教えていただければ修正致します。
+
+
+No usage report is required, but if you have any concerns, please feel free to contact us via Twitter DM or Booth message.
+If you find any shape breakdowns in the model, please let us know and we will correct them.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△
+
+【Live2D＆イラストレーター】
+橡こりす
+
+Webサイト
+https://kunugiko1214.wixsite.com/my-site
+Live2Dポートフォリオ
+https://www.youtube.com/channel/UCjfTFUtwxxumQl_rfQnaSSA
+
+Twitter：　@korisu_1214
+
+▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△
+
+
