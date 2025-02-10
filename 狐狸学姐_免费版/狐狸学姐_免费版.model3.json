@@ -1,0 +1,26 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "狐狸学姐_免费版.moc3",
+		"Textures": [
+			"狐狸学姐_免费版.512/texture_00.png"
+		],
+		"Physics": "狐狸学姐_免费版.physics3.json",
+		"DisplayInfo": "狐狸学姐_免费版.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
